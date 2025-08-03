@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "618508194508",
+    "project_id": "ynss-f8689",
+    "storage_bucket": "ynss-f8689.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:618508194508:android:ecfa0ba10669ab41aa6869",
+        "android_client_info": {
+          "package_name": "com.example.carewise"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1XRpKtfxOxgrZK9FC2jUoJFC_5leE0ZY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
