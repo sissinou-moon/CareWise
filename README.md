@@ -1,6 +1,8 @@
 # carewise
 
-A new Flutter project.
+A Flutter app for mobile and desktop. Patients use the mobile app to book doctor appointments. Doctors and clinic staff use the desktop app to manage appointments, patients, and their medical teams.
+
+`All rights reserved. This code is proprietary and may not be used, copied, modified, or distributed without explicit permission.`
 
 ## Getting Started
 
