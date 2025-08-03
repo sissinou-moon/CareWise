@@ -4,6 +4,8 @@ A Flutter app for mobile and desktop. Patients use the mobile app to book doctor
 
 `All rights reserved. This code is proprietary and may not be used, copied, modified, or distributed without explicit permission.`
 
+![App Screenshot](UiKit.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
